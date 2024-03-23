@@ -1,0 +1,15 @@
+gpytorch==1.10
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+numpy==1.24.1
+pandas==1.5.3
+-e git+https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake.git@1e41b9adde42e61d3d8de81896fea0058f864bf2#egg=py_wake
+pyperclip==1.8.2
+requests==2.28.2
+scikit-learn==1.2.2
+scipy==1.10.0
+torch==2.0.0
+tqdm==4.64.1
+xarray==2023.3.0
+xgboost==1.7.6
+seaborn==0.12.2
